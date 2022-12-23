@@ -4,7 +4,7 @@
 We sometimes face problems related to memory issues while saving or transferring any document or a file. Hence, there is a need to compress it so that it is reduced in size and can be transferred and processed easily. This project aims at compressing and decompressing different types of files stored in our computer system at a particular destination location.
   
 ### Some important reasons for developing this project are:
--The intention of file compression is to significantly reduce the space to store a file and transmit it.
+*The intention of file compression is to significantly reduce the space to store a file and transmit it.
 -File compression also increases data transfer speed.
 -There is also a chance of the file being corrupted and the user gets a file which is of no use.
 -Compression also reduces the disk space required on the internet servers along with the time taken by the Internet servers to find the file stored on the hard drive.
