@@ -16,7 +16,7 @@ import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
 public class AppFrame extends JFrame implements ActionListener{
-    //inherete JFrame - It is a top level container that provides a window on screen
+    //inherit JFrame - It is a top level container that provides a window on screen
     JButton compressButton;//creat button
     JButton decompressButton;
 
